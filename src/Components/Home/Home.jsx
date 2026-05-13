@@ -10,9 +10,11 @@ const Home = () => {
                 <TextChange />
             </h1>
             <p className='text-sm md:text-2xl tracking-tight '>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                A eos repellendus accusantiumrepellat harum veniam id nobis,
-                ad ea beatae possimus quia cum dolorem nemo repudiandae incidunt. Numquam, vitae ipsum!
+                I am a passionate web developer with experience in designing and building 
+                responsive, dynamic websites. i specialize in frontend design, backend development
+                using Node.js, and creating seamless user experience. Additionally, I am a competitive
+                programmer skilled in c++, tacking complex challenges with efficient and optimized
+                solutions.
             </p>
             <button className='mt-5 md:md-10 text-white py02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85
             duration-300 hover:scale-105 font-semiboild rounded-3xl bg-[#465697]'>

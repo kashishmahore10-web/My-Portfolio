@@ -1,11 +1,11 @@
 import React from 'react'
 
-import APJAbdulKalam from "../../assets/APJ Abdul Kalam.jpg"
+import image from "../../assets/image.jpg"
   
   const ProjectCard = ({title, main}) =>{
     return (
     <div className='p-4 md:p-6 flex flex-col w-80 bg-[#0c0e19] shadow-slate-900 rounded-2xl'>
-      <img src={APJAbdulKalam} alt="" />
+      <img src={image} alt="" />
       <h3 className='px-4 text-xxl md:text-2xl font-bold loading-normal'>
       {title}
       </h3>

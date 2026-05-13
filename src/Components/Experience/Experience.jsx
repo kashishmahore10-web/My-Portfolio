@@ -31,40 +31,26 @@ const Experience = () => {
       
       <div>
       <div className='flex gap-10 bg-slate-950 bg-opacity-45 mt-4 rounded-lg p-4 items-center'>
-        <FaGoogle color="#4285F4" size={50} />
         <span className='text-white'>
-            <h2 className='text-sm leading-tight font-thin'>SoftWare Engineeer, Google</h2>
-            <p className='text-sm leading-tight font-thin'>Sept 2023 - Present</p>
+            <h2 className='text-sm leading-tight font-thin'>SoftWare Engineeer, CodeSoft</h2>
+            <p className='text-sm leading-tight font-thin'>June 2025 - July 2025</p>
             <ul className='text-sm p-2'>
-                <li>- Work as software developer</li>
-                <li>- Senior SDE developer</li>
+              <li>- Work as software developer</li>
             </ul>
         </span>
       </div>
 
       <div className='flex gap-10 bg-slate-950 bg-opacity-45 mt-4 rounded-lg p-4 items-center'>
-        <FaAmazon color="#b4ce4bff" size={50} />
         <span className='text-white'>
-            <h2 className='text-sm leading-tight font-thin'>SoftWare Engineeer, Google</h2>
-            <p className='text-sm leading-tight font-thin'>Sept 2023 - Present</p>
+            <h2 className='text-sm leading-tight font-thin'>SoftWare Engineeer, Rekhi Foundation for Happiness</h2>
+            <p className='text-sm leading-tight font-thin'>May 2025  - July 2025</p>
             <ul className='text-sm p-2'>
                 <li>- Work as software developer</li>
-                <li>- Senior SDE developer</li>
             </ul>
         </span>
       </div>
 
-      <div className='flex gap-10 bg-slate-950 bg-opacity-45 mt-4 rounded-lg p-4 items-center'>
-        <RiNextjsFill color="#e05361ff" size={50} />
-        <span className='text-white'>
-            <h2 className='text-sm leading-tight font-thin'>SoftWare Engineeer, Google</h2>
-            <p className='text-sm leading-tight font-thin'>Sept 2023 - Present</p>
-            <ul className='text-sm p-2'>
-                <li>- Work as software developer</li>
-                <li>- Senior SDE developer</li>
-            </ul>
-        </span>
-      </div>
+      
 
       </div>
       
